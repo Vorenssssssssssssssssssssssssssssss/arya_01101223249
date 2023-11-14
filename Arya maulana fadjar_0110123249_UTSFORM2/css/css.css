@@ -1,0 +1,63 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: linear-gradient(135deg, #536976 10%, #292E49 100%);
+}
+ul
+{
+    list-style-type
+}
+.jdl {
+    text-align: center;
+    color: white;
+}
+
+form {
+    border: 3px solid black;
+    border-radius: 10px;
+    padding: 25px;
+    background-image: linear-gradient(135deg, #fdfcfb 10%, #e2d1c3 100%);
+    font-weight: bold;
+}
+
+.fm {
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.tm {
+    padding: 12px;
+}
+
+input {
+    width: 20em;
+    height: 2em;
+}
+
+select {
+    width: 274px;
+    height: 2em;
+}
+
+button {
+    margin-top: 15px;
+    border: none;
+    color: white;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.button2 {
+    background-color: blue;
+    margin-left: 70px;
+}
+
+option {
+    text-align: center;
+    font-weight: bold;
+}
